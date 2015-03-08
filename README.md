@@ -17,6 +17,6 @@ Time spent: 10 hours total
 
 #####GIF walkthrough:
 
-![hw5](https://cloud.githubusercontent.com/assets/10460611/6547803/57648a40-c5a0-11e4-8144-a850ee3b6a69.gif)
+![hw5](https://cloud.githubusercontent.com/assets/10460611/6547859/30181b9e-c5a2-11e4-868d-7c945977934e.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
