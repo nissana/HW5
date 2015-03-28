@@ -1,4 +1,4 @@
-# HW5
+# Project 5
 ### Tumblr
 
 Week 5 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners). Use Xcode to leverage animations and gestures in order to create custom navigation in Tumblr. 
